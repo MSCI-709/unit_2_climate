@@ -17,13 +17,13 @@ This unit will cover learning to program in base R. We'll explore data reading a
 
 #### Homework: 
 
--  HW_2_sea_level_rise - Assigned: 1/29/2023, Due: 2/7/2023
+-  hw_2_sea_level_rise - Assigned: 1/29/2023, Due: 2/7/2023
 
 HW2 repo link: https://classroom.github.com/a/iDzlKNqW
 
--  HW_3_ice_core_co2 - Assigned: 2/7/2023, Due: 2/14/2023
+-  hw_3_ice_core_co2 - Assigned: 2/7/2023, Due: 2/14/2023
 
-HW3 repo link: TBD
+HW3 repo link: https://classroom.github.com/a/wqVQ5z5x
 
 ***
 
